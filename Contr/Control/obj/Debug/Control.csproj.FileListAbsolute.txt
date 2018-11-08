@@ -1,0 +1,7 @@
+D:\2 курс\ООП\кр\Control\Control\bin\Debug\Control.exe.config
+D:\2 курс\ООП\кр\Control\Control\bin\Debug\Control.exe
+D:\2 курс\ООП\кр\Control\Control\bin\Debug\Control.pdb
+D:\2 курс\ООП\кр\Control\Control\obj\Debug\Control.csprojResolveAssemblyReference.cache
+D:\2 курс\ООП\кр\Control\Control\obj\Debug\Control.csproj.CoreCompileInputs.cache
+D:\2 курс\ООП\кр\Control\Control\obj\Debug\Control.exe
+D:\2 курс\ООП\кр\Control\Control\obj\Debug\Control.pdb
